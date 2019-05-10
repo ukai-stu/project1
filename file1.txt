@@ -2,4 +2,5 @@ edit by local myproj
 edit from develop
 
 create brunch develop/ukai-stu
-{\rtf1}
+
+create local branch develop
